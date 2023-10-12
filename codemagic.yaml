@@ -1,7 +1,7 @@
 workflows:
   kivy-ios-build:
     name: Kivy iOS Build
-    instance_type: mac_mini
+    instance_type: mac_pro
     max_build_duration: 60
     environment:
       xcode: latest
