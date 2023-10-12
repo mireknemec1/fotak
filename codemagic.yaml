@@ -1,0 +1,19 @@
+workflows:
+  kivy-ios-build:
+    name: Kivy iOS Build
+    instance_type: mac_mini
+    max_build_duration: 60
+    environment:
+      xcode: latest
+      cocoapods: default
+    scripts:
+      - name: Install dependencies
+        script: |
+          pip install buildozer
+          brew install carthage
+          pod install
+      - name: Build IPA with Buildozer
+        script: |
+          buildozer ios debug
+    artifacts:
+      - ./bin/*.ipa
