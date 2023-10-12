@@ -1,0 +1,35 @@
+[33mcommit 02997f134028b1845d113ec8a5db28ff47ec6d94[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: mireknemec1 <mirys30@seznam.cz>
+Date:   Thu Oct 12 23:16:44 2023 +0200
+
+    nevyznamna zmena
+
+[33mcommit c29600b0f65b800fb5752f9b2b6241580206170a[m
+Author: mireknemec1 <mirys30@seznam.cz>
+Date:   Thu Oct 12 23:14:36 2023 +0200
+
+    vymazani nepotrebneho souboru k iOS
+
+[33mcommit fa5917bb92eee517757dd157412e5f457ca9b918[m
+Author: mireknemec1 <mirys30@seznam.cz>
+Date:   Thu Oct 12 22:43:53 2023 +0200
+
+    Added codemagic.yaml configuration
+
+[33mcommit 6d75041737a85d2bb73a92be28f208a883e1a357[m
+Author: mireknemec1 <mirys30@seznam.cz>
+Date:   Thu Oct 12 22:35:45 2023 +0200
+
+    Added codemagic.yaml configuration
+
+[33mcommit 0050a6e4bae1dbcf07aebe890f2dd31307e2e452[m
+Author: mireknemec1 <mirys30@seznam.cz>
+Date:   Thu Oct 12 22:22:55 2023 +0200
+
+    Updated buildozer.spec
+
+[33mcommit 595b90ee4e5a91af3c612ebb930107de27c3f0ea[m
+Author: mireknemec1 <mirys30@seznam.cz>
+Date:   Thu Oct 12 21:35:37 2023 +0200
+
+    Přidání souborů main.py a buildozer.spec

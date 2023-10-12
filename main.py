@@ -13,7 +13,7 @@ from kivy.graphics import Rotate
 from kivy.graphics.context_instructions import PushMatrix, PopMatrix
 from kivy.properties import StringProperty
 
-#
+# blaaaa blaaaaa blaaaaaaa
 # Pokud aplikace běži na androidu provedou se importy a dalsi akce
 if platform == 'android':
     from android.permissions import request_permissions, Permission, check_permission  # Importy pro práci s Androidem
